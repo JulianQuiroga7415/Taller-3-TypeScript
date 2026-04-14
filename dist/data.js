@@ -1,9 +1,0 @@
-import { Serie } from './serie.js';
-export const SERIES = [
-    new Serie(1, 'Stranger Things', 'Netflix', 5, 'Un grupo de niños de los años 1980s experimentan sucesos sobrenaturales en su pequeño pueblo, Hawkins, Indiana, mientras un laboratorio secreto del gobierno realiza experimentos con fuerzas desconocidas.', 'images/strangerthings.jpg', 'https://www.netflix.com/title/80057281'),
-    new Serie(2, 'La Casa de Papel', 'Netflix', 5, 'Un criminal ingenioso conocido como El Profesor lidera a un grupo de ladrones en los atracos más espectaculares de la historia de España.', 'images/lacasadepapel.jpg', 'https://www.netflix.com/title/80192098'),
-    new Serie(3, 'Rigo', 'Amazon Prime', 1, 'Serie colombiana basada en la vida del ciclista Rigoberto Urán, desde sus humildes comienzos en Urrao, Antioquia, hasta convertirse en uno de los mejores ciclistas del mundo.', 'images/rigo.jpg', 'https://www.primevideo.com/detail/Rigo/0HH06AY04HLGZFXL713FPX1ZTD'),
-    new Serie(4, 'Chernobyl', 'HBO', 1, 'Una dramatizacion del desastre nuclear de Chernobyl ocurrido en 1986 en la Unión sovietica desde los momentos previos hasta las consecuencias posteriores de la explosion.', 'images/chernobyl.jpg', 'https://www.hbo.com/chernobyl'),
-    new Serie(5, 'The Walking Dead', 'AMC', 11, 'Cuenta la historia de un grupo de sobrevivientes en un mundo post-apocalíptico infestado de zombis, mientras luchan por sobrevivir y encontrar un lugar seguro en medio del caos.', 'images/twd.jpg', 'https://www.amc.com/shows/the-walking-dead'),
-    new Serie(6, 'IT: Welcome to Derry', 'Max', 1, 'Esta es una precuela que cuenta los hechos previos a los acontecimientos de las peliculas de It (2017) e It: Capitulo 2 (2019), centrandose en el origen de Pennywise y su influencia en la ciudad de Derry.', 'images/welcometoderry.jpg', 'https://www.max.com/shows/it-welcome-to-derry')
-];
